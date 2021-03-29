@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'AmazonEmber_Rg';
+  src: url("../font/AmazonEmber_Rg.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_RgIt';
+  src: url("../font/AmazonEmber_RgIt.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_Lt';
+  src: url("../font/AmazonEmber_Lt.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_LtIt';
+  src: url("../font/AmazonEmber_LtIt.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_Bd';
+  src: url("../font/AmazonEmber_Bd.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_BdIt';
+  src: url("../font/AmazonEmber_BdIt.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AmazonEmber_He';
+  src: url("../font/AmazonEmber_He.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_HeIt';
+  src: url("../font/AmazonEmber_HeIt.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_Md';
+  src: url("../font/AmazonEmber_Md.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_MdIt';
+  src: url("../font/AmazonEmber_MdIt.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AmazonEmber_Th';
+  src: url("../font/AmazonEmber_Th.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AmazonEmber_ThIt';
+  src: url("../font/AmazonEmber_ThIt.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
