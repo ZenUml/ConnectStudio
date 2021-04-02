@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extension-scaffold",
+  "version": "1.0.0",
+  "description": "A chrome web extension scaffolding",
+  "main": "index.js",
+  "scripts": {},
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-plumber": "1.1.0",
+    "gulp-sass": "3.1.0",
+    "gulp-sourcemaps": "2.6.0",
+    "gulp-uglify-es": "^0.1.6",
+    "gulp-uglifycss": "1.0.8",
+    "gulp-util": "3.0.8"
+  }
+}
